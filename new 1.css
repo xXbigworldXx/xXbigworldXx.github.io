@@ -1,0 +1,23 @@
+.bg3{
+	background-color: #d5ced9;
+}
+ol>li{
+	font-size: 25px;
+	color: navy;
+}
+p{
+	font-size: 25px;
+	color: navy;
+}
+footer{
+	background-color: gray;
+	float: left;
+	width: 100%;
+	padding: 20px;
+	box-sizing: border-box;
+	color: white;
+	font-size: 20px;
+}
+.t-a-c{
+	text-align: center;
+}
